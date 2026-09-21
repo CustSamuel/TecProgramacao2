@@ -1,0 +1,14 @@
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\bin\Debug\net10.0\DelegateFuncaoAnonima.exe
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\bin\Debug\net10.0\DelegateFuncaoAnonima.deps.json
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\bin\Debug\net10.0\DelegateFuncaoAnonima.runtimeconfig.json
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\bin\Debug\net10.0\DelegateFuncaoAnonima.dll
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\bin\Debug\net10.0\DelegateFuncaoAnonima.pdb
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\obj\Debug\net10.0\DelegateFuncaoAnonima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\obj\Debug\net10.0\DelegateFuncaoAnonima.AssemblyInfoInputs.cache
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\obj\Debug\net10.0\DelegateFuncaoAnonima.AssemblyInfo.cs
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\obj\Debug\net10.0\DelegateFuncaoAnonima.csproj.CoreCompileInputs.cache
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\obj\Debug\net10.0\DelegateFuncaoAnonima.dll
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\obj\Debug\net10.0\refint\DelegateFuncaoAnonima.dll
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\obj\Debug\net10.0\DelegateFuncaoAnonima.pdb
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\obj\Debug\net10.0\DelegateFuncaoAnonima.genruntimeconfig.cache
+C:\Users\0201392521012\Desktop\Delegate\DelegateFuncaoAnonima\obj\Debug\net10.0\ref\DelegateFuncaoAnonima.dll

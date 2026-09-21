@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Delegate3/Delegate3.csproj" />
+  <Project Path="DelegateAction/DelegateAction.csproj" />
+  <Project Path="DelegateFunc/DelegateFunc.csproj" />
+  <Project Path="DelegateFuncaoAnonima/DelegateFuncaoAnonima.csproj" />
+  <Project Path="DelegateMulti/DelegateMulti.csproj" />
+  <Project Path="DelegatePredicate/DelegatePredicate.csproj" />
+  <Project Path="ExemploDelegate/ExemploDelegate.csproj" />
+  <Project Path="Exercicio/Exercicio.csproj" />
+</Solution>

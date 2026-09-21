@@ -1,0 +1,14 @@
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\bin\Debug\net10.0\Exercicio_events.exe
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\bin\Debug\net10.0\Exercicio_events.deps.json
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\bin\Debug\net10.0\Exercicio_events.runtimeconfig.json
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\bin\Debug\net10.0\Exercicio_events.dll
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\bin\Debug\net10.0\Exercicio_events.pdb
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\obj\Debug\net10.0\Exercicio_events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\obj\Debug\net10.0\Exercicio_events.AssemblyInfoInputs.cache
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\obj\Debug\net10.0\Exercicio_events.AssemblyInfo.cs
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\obj\Debug\net10.0\Exercicio_events.csproj.CoreCompileInputs.cache
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\obj\Debug\net10.0\Exercicio_events.dll
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\obj\Debug\net10.0\refint\Exercicio_events.dll
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\obj\Debug\net10.0\Exercicio_events.pdb
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\obj\Debug\net10.0\Exercicio_events.genruntimeconfig.cache
+C:\Users\0201392521012\Desktop\Exercicio_events\Exercicio_events\obj\Debug\net10.0\ref\Exercicio_events.dll

@@ -1,0 +1,14 @@
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\bin\Debug\net10.0\GetOuSet_LeituraGravacao.exe
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\bin\Debug\net10.0\GetOuSet_LeituraGravacao.deps.json
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\bin\Debug\net10.0\GetOuSet_LeituraGravacao.runtimeconfig.json
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\bin\Debug\net10.0\GetOuSet_LeituraGravacao.dll
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\bin\Debug\net10.0\GetOuSet_LeituraGravacao.pdb
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\obj\Debug\net10.0\GetOuSet_LeituraGravacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\obj\Debug\net10.0\GetOuSet_LeituraGravacao.AssemblyInfoInputs.cache
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\obj\Debug\net10.0\GetOuSet_LeituraGravacao.AssemblyInfo.cs
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\obj\Debug\net10.0\GetOuSet_LeituraGravacao.csproj.CoreCompileInputs.cache
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\obj\Debug\net10.0\GetOuSet_LeituraGravacao.dll
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\obj\Debug\net10.0\refint\GetOuSet_LeituraGravacao.dll
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\obj\Debug\net10.0\GetOuSet_LeituraGravacao.pdb
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\obj\Debug\net10.0\GetOuSet_LeituraGravacao.genruntimeconfig.cache
+C:\Users\0201392521012\Desktop\GetOuSet_LeituraGravacao\GetOuSet_LeituraGravacao\obj\Debug\net10.0\ref\GetOuSet_LeituraGravacao.dll

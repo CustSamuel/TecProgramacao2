@@ -1,0 +1,14 @@
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\bin\Debug\net10.0\DelegateMulti.exe
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\bin\Debug\net10.0\DelegateMulti.deps.json
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\bin\Debug\net10.0\DelegateMulti.runtimeconfig.json
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\bin\Debug\net10.0\DelegateMulti.dll
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\bin\Debug\net10.0\DelegateMulti.pdb
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\obj\Debug\net10.0\DelegateMulti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\obj\Debug\net10.0\DelegateMulti.AssemblyInfoInputs.cache
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\obj\Debug\net10.0\DelegateMulti.AssemblyInfo.cs
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\obj\Debug\net10.0\DelegateMulti.csproj.CoreCompileInputs.cache
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\obj\Debug\net10.0\DelegateMulti.dll
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\obj\Debug\net10.0\refint\DelegateMulti.dll
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\obj\Debug\net10.0\DelegateMulti.pdb
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\obj\Debug\net10.0\DelegateMulti.genruntimeconfig.cache
+C:\Users\0201392521012\Desktop\Delegate\DelegateMulti\obj\Debug\net10.0\ref\DelegateMulti.dll

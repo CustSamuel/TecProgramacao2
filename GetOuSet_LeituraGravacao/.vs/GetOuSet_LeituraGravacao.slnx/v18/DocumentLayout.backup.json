@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392521012\\Desktop\\GetOuSet_LeituraGravacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586F15DB-265A-41E1-840D-7FA2DAA71712}|GetOuSet_LeituraGravacao\\GetOuSet_LeituraGravacao.csproj|c:\\users\\0201392521012\\desktop\\getouset_leituragravacao\\getouset_leituragravacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586F15DB-265A-41E1-840D-7FA2DAA71712}|GetOuSet_LeituraGravacao\\GetOuSet_LeituraGravacao.csproj|solutionrelative:getouset_leituragravacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392521012\\Desktop\\GetOuSet_LeituraGravacao\\GetOuSet_LeituraGravacao\\Program.cs",
+              "RelativeDocumentMoniker": "GetOuSet_LeituraGravacao\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392521012\\Desktop\\GetOuSet_LeituraGravacao\\GetOuSet_LeituraGravacao\\Program.cs",
+              "RelativeToolTip": "GetOuSet_LeituraGravacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T11:21:54.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
