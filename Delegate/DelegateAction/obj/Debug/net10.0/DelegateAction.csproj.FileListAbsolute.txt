@@ -1,0 +1,14 @@
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\bin\Debug\net10.0\DelegateAction.exe
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\bin\Debug\net10.0\DelegateAction.deps.json
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\bin\Debug\net10.0\DelegateAction.runtimeconfig.json
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\bin\Debug\net10.0\DelegateAction.dll
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\bin\Debug\net10.0\DelegateAction.pdb
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\obj\Debug\net10.0\DelegateAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\obj\Debug\net10.0\DelegateAction.AssemblyInfoInputs.cache
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\obj\Debug\net10.0\DelegateAction.AssemblyInfo.cs
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\obj\Debug\net10.0\DelegateAction.csproj.CoreCompileInputs.cache
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\obj\Debug\net10.0\DelegateAction.dll
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\obj\Debug\net10.0\refint\DelegateAction.dll
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\obj\Debug\net10.0\DelegateAction.pdb
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\obj\Debug\net10.0\DelegateAction.genruntimeconfig.cache
+C:\Users\0201392521012\Desktop\Delegate\DelegateAction\obj\Debug\net10.0\ref\DelegateAction.dll
