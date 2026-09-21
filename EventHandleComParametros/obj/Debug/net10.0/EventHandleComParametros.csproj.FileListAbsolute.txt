@@ -1,0 +1,14 @@
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\bin\Debug\net10.0\EventHandleComParametros.exe
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\bin\Debug\net10.0\EventHandleComParametros.deps.json
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\bin\Debug\net10.0\EventHandleComParametros.runtimeconfig.json
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\bin\Debug\net10.0\EventHandleComParametros.dll
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\bin\Debug\net10.0\EventHandleComParametros.pdb
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\obj\Debug\net10.0\EventHandleComParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\obj\Debug\net10.0\EventHandleComParametros.AssemblyInfoInputs.cache
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\obj\Debug\net10.0\EventHandleComParametros.AssemblyInfo.cs
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\obj\Debug\net10.0\EventHandleComParametros.csproj.CoreCompileInputs.cache
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\obj\Debug\net10.0\EventHandleComParametros.dll
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\obj\Debug\net10.0\refint\EventHandleComParametros.dll
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\obj\Debug\net10.0\EventHandleComParametros.pdb
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\obj\Debug\net10.0\EventHandleComParametros.genruntimeconfig.cache
+C:\Users\0201392521012\Desktop\Eventos\EventHandleComParametros\obj\Debug\net10.0\ref\EventHandleComParametros.dll
